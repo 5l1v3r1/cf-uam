@@ -18,8 +18,6 @@ print(Fore.WHITE + """
     |  |  ||  |  \     ||  .  ||     T|  .  Y|  |  |l     ||     ||     |
     l__j__jl__j__j\____jl__j\_jl_____jl__j\_jl__j__j \__,_jl_____jl_____j
     
-                           Created Murrez
-                           
                      [+] CloudFlare UAM Bypass [+]
                           
             instagram.com/murrez.sec ~ fb.com/murrez.sec
